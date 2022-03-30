@@ -2,3 +2,6 @@ qweqweqweqweqwe
 color
 blanco
 negro
+
+
+fondo negro - rojo
